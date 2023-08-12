@@ -5,7 +5,7 @@
 
 Uma aplicação de biblioteca de jogos simples, onde os usuários podem adicionar e remover jogos da sua coleção.
 
-![Alt text](image.png)
+
 
 ## Visão Geral
 
@@ -22,7 +22,7 @@ A "Biblioteca de Jogos" é uma aplicação que permite aos usuários gerenciar s
 
 ## Capturas de Tela
 
-![Captura de Tela 1](screenshots/screenshot1.png)
+![Captura de Tela 1](![Alt text](image.png)
 ![Captura de Tela 2](screenshots/screenshot2.png)
 
 ## Pré-requisitos
