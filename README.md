@@ -22,8 +22,8 @@ A "Biblioteca de Jogos" é uma aplicação que permite aos usuários gerenciar s
 
 ## Capturas de Tela
 
-![Captura de Tela 1](![Alt text](image.png)
-![Captura de Tela 2](screenshots/screenshot2.png)
+(![Alt text](image.png)
+
 
 ## Pré-requisitos
 
